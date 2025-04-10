@@ -1,0 +1,10 @@
+
+credentials:
+  usernames:
+    demo_user:
+      name: Demo User
+      password: '$2b$12$zNcbUR6GuZcsl9jv12iVDOKTVHFrbWWZgHDMI.Vlm6PYoqngcO0eW'  # Password: demo123
+cookie:
+  name: medical_app
+  key: random_signature_key
+  expiry_days: 7
